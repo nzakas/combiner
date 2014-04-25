@@ -8,6 +8,13 @@ Copyright (c) 2009 Nicholas C. Zakas. All rights reserved.
 http://www.nczonline.net/blog/2009/09/22/introducing-combiner-a-javascriptcss-concatenation-tool/
 
 -------------------------------------------------------------------------------
+ Deprecated
+-------------------------------------------------------------------------------
+
+This tool has been deprecated. Since 2009, when it was first released, there are much better tools for this purpose. As such, no further changes will be made. This repo is here purely for historical reasons.
+
+
+-------------------------------------------------------------------------------
  License
 -------------------------------------------------------------------------------
 
